@@ -1,6 +1,0 @@
-﻿  ソース.cpp
-C:\KS1\giophutgiay\giophutgiay\ソース.cpp(6,49): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
-      C:\KS1\giophutgiay\giophutgiay\ソース.cpp(6,49):
-      プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
-  
-  giophutgiay.vcxproj -> C:\KS1\giophutgiay\x64\Debug\giophutgiay.exe
