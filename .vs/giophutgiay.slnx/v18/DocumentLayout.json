@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KS1\\giophutgiay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33DC4D-BE94-415B-9425-21CD34D5EB1D}|giophutgiay\\giophutgiay.vcxproj|C:\\KS1\\giophutgiay\\giophutgiay\\\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A33DC4D-BE94-415B-9425-21CD34D5EB1D}|giophutgiay\\giophutgiay.vcxproj|solutionrelative:giophutgiay\\\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u30BD\u30FC\u30B9.cpp",
+              "DocumentMoniker": "C:\\KS1\\giophutgiay\\giophutgiay\\\u30BD\u30FC\u30B9.cpp",
+              "RelativeDocumentMoniker": "giophutgiay\\\u30BD\u30FC\u30B9.cpp",
+              "ToolTip": "C:\\KS1\\giophutgiay\\giophutgiay\\\u30BD\u30FC\u30B9.cpp",
+              "RelativeToolTip": "giophutgiay\\\u30BD\u30FC\u30B9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-08T09:21:36.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
